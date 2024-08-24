@@ -2256,7 +2256,13 @@ button,
         display: flex;
       }
       #current h1 br {
-        display: none; }
+        display: none; 
+        font-size: 3em;
+      }
+      #current h2 {
+        font-size: 1.5em;
+        padding-bottom: .5em;;
+      }
       #current .content {
         -moz-flex-grow: 0;
         -webkit-flex-grow: 0;
